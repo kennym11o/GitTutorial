@@ -20,7 +20,7 @@ bool Guess(int number)
 }
 
 int foo() {
-	return 3;
+	return 4;
 }
 
 int main(array<System::String ^> ^args)
