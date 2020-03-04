@@ -20,6 +20,7 @@ bool Guess(int number)
 }
 
 int foo() {
+	printf("hello");
 	return 3;
 }
 
@@ -34,5 +35,5 @@ int main(array<System::String ^> ^args)
 }
 
 bool testTrue() {
-	return true;
+	return false;
 }
