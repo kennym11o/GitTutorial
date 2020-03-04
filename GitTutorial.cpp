@@ -27,3 +27,7 @@ int main(array<System::String ^> ^args)
 	} while (!Guess(guess));
 	return 0;
 }
+
+bool testTrue() {
+	return true;
+}
