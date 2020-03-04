@@ -18,6 +18,11 @@ bool Guess(int number)
 	else if (number < target) std::cout << "Bigger" << std::endl;
 	return false;
 }
+
+int foo() {
+	return 3;
+}
+
 int main(array<System::String ^> ^args)
 {
 	int guess;
